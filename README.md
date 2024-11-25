@@ -5,3 +5,8 @@ SlimeVRSever に VMCProtocol を送出させて、human://CHEST と human::/WAIS
 
 Visual Studio 2022 でビルドできます。.NET で C# で Forms です。
 
+MITライセンスです。(Forms1.cs, Form1.Designer.cs, Program.cs に記載)
+
+uOSCフォルダ内のプログラムは他者製MITライセンスソフトウェアuOSC を利用しています。
+元はUnity用C# のためDebug.Log 等になっているのを、Console.WriteLineに変更しています。
+[uOSC のライセンス表示](https://github.com/hecomi/uOSC/blob/master/LICENSE.md)
